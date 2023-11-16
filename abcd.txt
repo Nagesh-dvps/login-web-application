@@ -1,1 +1,3 @@
 Hi I am NAgesh
+ git config --global user.email "nageshm807@gmail.com"
+  git config --global user.name "Nagesh-dvps"
